@@ -77,14 +77,12 @@ Enter the below-given command in the terminal for compilation:
 ```bash
 javac -d out src/*.java
 ```
-Run the Application
-After successful compilation, run:
-Compile:
-javac -d out src/*.java
-Run:
-java -cp out Main
+### Step 3: Run the Application
 
-How to run:
+After successful compilation, run:
+
+```bash
+java -cp out Main
 ## Main Menu & Its Functions
 
 The menu provides the options for:
