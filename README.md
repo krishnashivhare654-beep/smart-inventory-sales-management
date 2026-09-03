@@ -83,6 +83,7 @@ After successful compilation, run:
 
 ```bash
 java -cp out Main
+
 ## Main Menu & Its Functions
 
 The menu provides the options for:
